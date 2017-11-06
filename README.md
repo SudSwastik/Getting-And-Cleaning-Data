@@ -20,3 +20,7 @@ Submission Files
 5. Load the R script 
 
 6. Finally,execute script to get the tidy data set.
+
+More Information
+
+ For more information on the data set, please refer to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
