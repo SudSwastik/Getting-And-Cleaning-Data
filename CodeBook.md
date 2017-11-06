@@ -17,14 +17,5 @@
 
 ## The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
 
-    1. "activitylabel"
-    2. "subject"
-    3. "tBodyAcc-mean()-X"
-    4. "tBodyAcc-mean()-Y"
-    5. "tBodyAcc-mean()-Z"
-    6. "tBodyAcc-std()-X"
-    7. "tBodyAcc-std()-Y"
-    8. "tBodyAcc-std()-Z"
-    9. "tGravityAcc-mean()-X"  
-   10. "tGravityAcc-mean()-Y"
+   
    
